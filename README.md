@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Eddie and I am a veteran turned Systems Engineer with a love for coding!
 
 📫 How to reach me: 
-Email- eddieolstrom1@gmail.com
-LinkedIn- www.linkedin.com/in/edward-olstrom
+* Email- eddieolstrom1@gmail.com
+* LinkedIn- www.linkedin.com/in/edward-olstrom
 
 ### My Projects from GA are pinned below!
 <!--
