@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Eddie and I am a veteran turned Systems Engineer with a love for coding!
+### Hi there 👋 My name is Eddie and I am a Veteran turned Systems Engineer with a love for coding!
 
 📫 How to reach me: 
 * Email- eddieolstrom1@gmail.com
