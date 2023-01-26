@@ -4,6 +4,7 @@
 Email- eddieolstrom1@gmail.com
 LinkedIn- www.linkedin.com/in/edward-olstrom
 
+### My Projects from GA are pinned below!
 <!--
 **olstromej/olstromej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
